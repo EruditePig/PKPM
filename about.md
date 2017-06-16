@@ -4,4 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+PKPM开发人员，主要负责SATWE和SLAB的开发。
+
+# email
+
+shijianxin@cabrtech.com
+
+# telephone
+
+010-64518340
+
