@@ -5,6 +5,7 @@ description: "一些关于PKPM的笔记"
 keywords: "PKPM, 笔记"
 url: https://eruditepig.github.io/PKPM/ # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
+imgurl: "https://github.com/EruditePig/PKPM/raw/master/static/img/"
 # baseurl: null # apply null if repo name is something like username.github.io
 
 
